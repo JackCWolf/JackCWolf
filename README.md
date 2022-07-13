@@ -1,3 +1,5 @@
+ 👀👋
+
 - 🍻 I'm Jack! Nice of you to check out my Github!
 - 🔭 I’m currently working on analyzing the Roblox market/catalog.
 - 🌱 I’m currently learning Python! I'm also having fun practicing SQL on Leetcode!
