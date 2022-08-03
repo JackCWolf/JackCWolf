@@ -2,7 +2,7 @@
 
   🍻 I'm Jack! Nice of you to check out my Github!
   
-  📌 Check out the pinned repositories for some easy to parse work!
+  📌 Check out the pinned repositories for some easy to parse data-science stuff.
   
   🌱 I’m currently training to enter coding competitions.
   
